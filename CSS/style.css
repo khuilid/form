@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin-top: px;
+    
+}
+
+header{
+    height: 100px;
+    background-color: #5CBAFF;
+    display: flex;
+    align-items: center;
+}
+nav{
+    width: 40%;
+    margin: auto;
+    
+}
+nav ul{
+list-style: none;
+overflow: hidden;
+}
+nav ul li{
+float: left;
+margin-right: 10px;
+font-size: 15px;
+}
+.img{
+
+}
+
+.content{
+
+}
+
+.content{
+overflow: hidden;
+}
+.left{
+width: 40%;
+float: left;
+background-color: #5CBAFF;
+height: 500px;
+}
+
+.left img{
+    width: 95%;
+}
+
+.right{background-color: #0093FF;
+    width: 60%;
+    float: right;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    align-items: center;
+}
+
+.right-form{
+
+width: 40%;
+}
+.right-form h2{
+    color: #ffff;
+margin-bottom: 10px;
+}
+
+.right-form p{
+    margin-bottom: 15px;
+    color: #ffff;
+}
+
+.right-form form{
+    
+}
+
+.right-form form input{
+    width: 100%;
+    padding: 10px 3px;
+    border: none;
+    margin-bottom: 10px;
+    
+    
+}
+.social{
+overflow: hidden;
+}
+.social ul{
+    list-style: none;
+    
+}
+.social ul li{
+    float: left;
+    margin-left: 10px;
+    font-size: 17px;
+    margin-top: 10px;
+    color: #ffff;
+}
+
+.right-form form input[type="submit"]{
+    width: 30%;
+    font-size: 15px;
+}
+
